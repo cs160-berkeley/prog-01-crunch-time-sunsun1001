@@ -4,15 +4,21 @@ Briefly describe your app here.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Sunny Singh ([sunny.singh.13@berkeley.edu](mailto:sunny.singh.13@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [The Caloric Burner] (https://link_to_your_video)
+
+## Screenshots
+
+/Users/sunsun1001/Desktop/Screen Shot 2016-02-05 at 3.24.34 PM.png
+/Users/sunsun1001/Desktop/Screen Shot 2016-02-05 at 3.25.16 PM.png
+/Users/sunsun1001/Desktop/Screen Shot 2016-02-05 at 3.25.57 PM.png
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* http://stackoverflow.com/questions/11050074/how-to-check-if-radiobutton-is-checked
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+* http://stackoverflow.com/questions/8323778/how-to-set-on-click-listener-on-the-radio-button-in-android
+
