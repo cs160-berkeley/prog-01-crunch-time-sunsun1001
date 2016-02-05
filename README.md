@@ -12,7 +12,7 @@ See [The Caloric Burner App] (https://link_to_your_video)
 
 ## Screenshots
 
-![Image 1](screenshots/1.png)
+![Image 1](screenshots/1.png width=“100” height=“100”)
 ![Image 2](screenshots/2.png “Portrait Mode”)
 ![Image 3](screenshots/3.png “Full View“)
 ![Image 4](screenshots/4.png “Jumping Jacks in Mins”)
