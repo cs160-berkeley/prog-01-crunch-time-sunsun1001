@@ -12,10 +12,10 @@ See [The Caloric Burner] (https://link_to_your_video)
 
 ## Screenshots
 
-<img src = “screenshots/1.png” height=“400” alt=“Screenshot1”/>
-<img src = “screenshots/2.png” height=“400” alt=“Screenshot2”/>
-<img src = “screenshots/3.png” height=“400” alt=“Screenshot3”/>
-<img src = “screenshots/4.png” height=“400” alt=“Screenshot4”/>
+<img src = “screenshot/1.png” height=“400” alt=“Screenshot”/>
+<img src = “screenshot/2.png” height=“400” alt=“Screenshot”/>
+<img src = “screenshot/3.png” height=“400” alt=“Screenshot”/>
+<img src = “screenshot/4.png” height=“400” alt=“Screenshot”/>
 
 ## Acknowledgments
 
