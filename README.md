@@ -12,9 +12,10 @@ See [The Caloric Burner] (https://link_to_your_video)
 
 ## Screenshots
 
-/Users/sunsun1001/Desktop/Screen Shot 2016-02-05 at 3.24.34 PM.png
-/Users/sunsun1001/Desktop/Screen Shot 2016-02-05 at 3.25.16 PM.png
-/Users/sunsun1001/Desktop/Screen Shot 2016-02-05 at 3.25.57 PM.png
+![Image 1](screenshots/1.png “Entering a Value“)
+![Image 2](screenshots/2.png “Portrait Mode”)
+![Image 3](screenshots/3.png “Full View“)
+![Image 4](screenshots/4.png “Jumping Jacks in Mins”)
 
 ## Acknowledgments
 
