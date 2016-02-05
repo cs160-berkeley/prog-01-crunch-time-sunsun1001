@@ -8,7 +8,7 @@ Sunny Singh ([sunny.singh.13@berkeley.edu](mailto:sunny.singh.13@berkeley.edu))
 
 ## Demo Video
 
-See [The Caloric Burner] (https://link_to_your_video)
+See [The Caloric Burner App] (https://link_to_your_video)
 
 ## Screenshots
 
