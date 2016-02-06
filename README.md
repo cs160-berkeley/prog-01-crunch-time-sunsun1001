@@ -1,6 +1,6 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Join Berkeley students who have lost weight using CalBurner! It is the most successful comprehensive weight loss app! It makes it easy to choose how you want to lose weight. Enter reps or minutes of the exercise done and it will tell you potential calories burned. 
 
 ## Authors
 
@@ -8,7 +8,7 @@ Sunny Singh ([sunny.singh.13@berkeley.edu](mailto:sunny.singh.13@berkeley.edu))
 
 ## Demo Video
 
-See [The Caloric Burner] (https://link_to_your_video)
+See [CalBurner] (https://www.youtube.com/watch?v=1YvZs__GIhA)
 
 ## Screenshots
 
